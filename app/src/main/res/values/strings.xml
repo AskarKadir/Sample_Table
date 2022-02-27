@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sample Table Layout</string>
+    <string name="loginform">Sample Table Layout</string>
+    <string name="tUsername">Sample Table Layout</string>
+    <string name="tPassword">Sample Table Layout</string>
+    <string name="login">Sample Table Layout</string>
+    <string name="tlogo">Sample Table Layout</string>
+</resources>
